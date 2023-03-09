@@ -85,7 +85,7 @@ ul li a:hover{
 
 .header{
 	width: 100vw;
-	max-height: 700px;
+	max-height: 900px;
 	display: flex;
 	justify-content: space-evenly;
 	background: var(--Very-Light-ray);
