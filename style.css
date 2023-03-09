@@ -301,6 +301,12 @@ ul li a:hover{
 	font-size: 14px;
 	color: var(--Grayish-Blue);
 }
+.footer-attribution{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	width:auto;
+}
 @media(max-width: 970px){
 	.heading{
         display: flex;
